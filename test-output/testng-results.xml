@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="31700" started-at="2021-04-03T19:25:32 IST" finished-at="2021-04-03T19:26:04 IST">
+  <suite name="Default suite" duration-ms="1038" started-at="2021-04-03T20:49:04 IST" finished-at="2021-04-03T20:49:05 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="31700" started-at="2021-04-03T19:25:32 IST" finished-at="2021-04-03T19:26:04 IST">
-      <class name="com.raghib.pomwithoutpagefactory.GoogleSearchPageTest">
-        <test-method status="PASS" signature="executeTest()[pri:0, instance:com.raghib.pomwithoutpagefactory.GoogleSearchPageTest@67205a84]" name="executeTest" duration-ms="17261" started-at="2021-04-03T19:25:32 IST" finished-at="2021-04-03T19:25:50 IST">
+    <test name="Default test" duration-ms="1038" started-at="2021-04-03T20:49:04 IST" finished-at="2021-04-03T20:49:05 IST">
+      <class name="com.raghib.extentreport.ExtentReportDemo">
+        <test-method status="PASS" signature="landingPage()[pri:0, instance:com.raghib.extentreport.ExtentReportDemo@26aa12dd]" name="landingPage" duration-ms="951" started-at="2021-04-03T20:49:04 IST" finished-at="2021-04-03T20:49:05 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- executeTest -->
-      </class> <!-- com.raghib.pomwithoutpagefactory.GoogleSearchPageTest -->
-      <class name="com.raghib.pomwithoutpagefactory.GoogleSearchPageObjectsTest">
-        <test-method status="PASS" signature="executeTest()[pri:0, instance:com.raghib.pomwithoutpagefactory.GoogleSearchPageObjectsTest@7d0587f1]" name="executeTest" duration-ms="14361" started-at="2021-04-03T19:25:50 IST" finished-at="2021-04-03T19:26:04 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- executeTest -->
-      </class> <!-- com.raghib.pomwithoutpagefactory.GoogleSearchPageObjectsTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- landingPage -->
+      </class> <!-- com.raghib.extentreport.ExtentReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
